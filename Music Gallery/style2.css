@@ -1,0 +1,17 @@
+
+
+body{
+    background: linear-gradient(135deg, rgb(24, 124, 69), #1b0624);
+   
+}
+
+.head{
+    text-align: center;
+    color: rgb(194, 201, 197);
+}
+
+#table{
+    margin-left: 25vw;
+    margin-top: 25px;
+    
+}
